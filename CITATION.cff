@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Hidden in Plain Code: Reliability and Limits of Frontier LLMs in Detecting Software Backdoors"
+authors:
+  - family-names: Capuano
+    given-names: Marco
+    affiliation: "OST Eastern Switzerland University of Applied Sciences"
+  - family-names: Sabljak
+    given-names: Luca
+    affiliation: "OST Eastern Switzerland University of Applied Sciences"
+  - family-names: Buchli
+    given-names: Josias
+    affiliation: "OST Eastern Switzerland University of Applied Sciences"
+license: CC-BY-4.0
+keywords:
+  - AI security
+  - coding agents
+  - large language models
+  - backdoors
+  - code review
+  - security audit
+abstract: >-
+  AI coding agents recognize the backdoors they read, but they read only what
+  they judge relevant. Twelve working backdoors in Gitea and Jenkins were found
+  in 43 of 48 single-backdoor reviews by GPT-6.1 Sol and Opus 5.5. Tool traces
+  show that the agents read a median of 8.5% of the lines and explained the
+  backdoor in 90 of 93 cases in which its decisive line appeared in their tool
+  output, but in none of 24 cases in which it did not. Hidden in Plain Code
+  (HIPC) turns these reading habits into rules for backdoors that look not
+  worth reading. HIPC backdoors were found in full in only 3 of 21 reviews.
+preferred-citation:
+  type: report
+  title: "Hidden in Plain Code: Reliability and Limits of Frontier LLMs in Detecting Software Backdoors"
+  authors:
+    - family-names: Capuano
+      given-names: Marco
+    - family-names: Sabljak
+      given-names: Luca
+    - family-names: Buchli
+      given-names: Josias
+  institution:
+    name: "OST Eastern Switzerland University of Applied Sciences"
+  year: 2026
+  month: 11
+  notes: "Semester thesis, supervised by Dr. Arno Wagner"
