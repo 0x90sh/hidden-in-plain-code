@@ -13,7 +13,7 @@ OST Eastern Switzerland University of Applied Sciences, November 2026
 [![Paper](https://img.shields.io/badge/paper-PDF-b31b1b)](hipc.pdf)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 
-**[Read the paper (PDF, 66 pages)](hipc.pdf)** | **[Browse the 84 run archives](evidence/runs)**
+**[Read the paper (PDF, 68 pages)](hipc.pdf)** | **[Browse the 87 run archives](evidence/runs)**
 
 </div>
 
